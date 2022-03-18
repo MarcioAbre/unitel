@@ -1,2 +1,2 @@
 
-coonlog.log('ola mundo');
+coonlog.log(' mundo');
